@@ -1,0 +1,16 @@
+img {
+    width: 235px;
+    height: auto;
+    margin: 0px auto;
+    display: block;
+}
+
+h1 {
+    text-align: center;
+    font-family: cursive;
+    font-size: 52px;
+}
+
+a {
+    font-size: 31px;
+}
